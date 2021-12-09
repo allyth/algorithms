@@ -1,5 +1,5 @@
 ## Problem 1 - tower_of_hanoi.py
-A recursive algorithm that for a given number n of disks prints the moves needed to move the disks from peg 0 to peg 2 in the circular, counter-clockwise, model (disks are only allowed to move in a counter-clockwise direction). As a variation, the print statements were commented, so the moves aren't printed, but instead a count of moves is returned.
+A recursive algorithm that for a given number n of disks prints the moves needed to move the disks from peg 0 to peg 2 in a circular, counter-clockwise, model (disks are only allowed to move in a counter-clockwise direction). As a variation, the print statements were commented, so the moves aren't printed, but instead a count of moves is returned.
 
 Run it with:
 ```
